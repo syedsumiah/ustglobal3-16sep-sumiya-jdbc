@@ -1,1 +1,0 @@
-# ustglobal3-16sep-sumiya-jdbc
